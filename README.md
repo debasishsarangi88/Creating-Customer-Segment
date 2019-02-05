@@ -4,7 +4,7 @@ Unsupervised ML Project for Udacity ML Engineer Nanodegree
 Project Description
 This is a project for the Machine Learning Engineer Nanodegree. In this project I apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data.
 
-Here, I first explore the data to determine if any product categories highly correlate with one another by observing a small subset of the data and also by ploting a scater matrix. Afterwards, I preprocess the data by scaling each product category and then identifying (and removing) unwanted outliers. Then I apply PCA transformations to the data and implement a clustering algorithm (Gaussian Mixture Model)to segment the transformed customer data. Finally, I compare the segmentation found with an additional labeling and consider ways this information could assist the wholesale distributor with future service changes.
+Initially data was explored to determine if any product categories highly correlates with one another by observing a small subset of the data and also by ploting a scater matrix. Afterwards, the data was preprocessed by scaling each product category and then identifying (and removing) unwanted outliers. Then PCA transformations was applied to the data and clustering algorithm GMM (Gaussian Mixture Model)was implemented to segment the transformed customer data. Finally, the segments were compared and found with an additional labeling and how this information could assist the wholesale distributor with future service changes.
 
 Install
 
