@@ -18,7 +18,7 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
 
 Code
-The main code for this project is located in the customer_segments.ipynb notebook file. Additional supporting code for visualizing the necessary graphs can be found in visuals.py. Additionally, the Report.html file contains a snapshot of the main code in the jupyter notebook with all code cells executed
+The main code for this project is located in the customer_segments.ipynb notebook file. 
 
 Run
 In a terminal or command window, navigate to the top-level project directory customer_segments/ (that contains this README) and run one of the following commands:
